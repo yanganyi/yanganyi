@@ -1,5 +1,6 @@
 # I'm Yang An Yi ✨
 ## I'm from HCI EC³/Infocomm Club
+#### Still cleaning up my Github, do forgive the bad formatting and presentation!!
 ### - Currently working on
   - Cybersecurity
   - C++
