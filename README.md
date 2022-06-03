@@ -15,9 +15,6 @@
   - Text Editor   (Html + Css + Js)
 ### - I'm looking for help with: Css Battle (cssbattle.dev)
 ### Contact me at: ron.yanganyi@gmail.com
-Pronouns: he/him/they
-
-Fun fact: I love chess
 
 <!--
 **yanganyi/yanganyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
