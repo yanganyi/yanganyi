@@ -7,14 +7,25 @@
   - Python
 ### - Currently learning
   - Javascript
-  - Css
+  - Css (cssbattle.dev)
   - Html
 ### - I'm looking to collaborate on
   - Chess AI      (Python)
   - Blog          (Html + Css + Js)
   - Text Editor   (Html + Css + Js)
-### - I'm looking for help with: Css Battle (cssbattle.dev)
 ### Contact me at: ron.yanganyi@gmail.com
+
+## <h3 align="left">GitHub Stats</h3>
+
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=yanganyi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanganyi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+  
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=yanganyi&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 <!--
 **yanganyi/yanganyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
