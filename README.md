@@ -9,10 +9,6 @@
   - Javascript
   - Css (cssbattle.dev)
   - Html
-### - I'm looking to collaborate on
-  - Chess AI      (Python)
-  - Blog          (Html + Css + Js)
-  - Text Editor   (Html + Css + Js)
 ### Contact me at: ron.yanganyi@gmail.com
 
 ## <h3 align="left">GitHub Stats</h3>
