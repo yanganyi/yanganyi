@@ -1,14 +1,12 @@
 # I'm Yang An Yi ✨
 ## I'm from HCI EC³/Infocomm and Robotics Society
-#### Still cleaning up my Github, do forgive the bad formatting and presentation!!
 ### - Currently working on
-  - Cybersecurity
+  - PicoCTF (Cybersecurity)
   - C++
   - Python
 ### - Currently learning
-  - Javascript
   - Css (cssbattle.dev)
-  - Html
+  - Web Dev
 ### Contact me at: ron.yanganyi@gmail.com
 
 ## <h3 align="left">GitHub Stats</h3>
