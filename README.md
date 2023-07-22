@@ -1,7 +1,7 @@
 # I'm Yang An Yi ✨
 ## I'm from HCI EC³/Infocomm and Robotics Society
 ### - Currently working on
-  - PicoCTF (Cybersecurity)
+  - picoCTF (Cybersecurity)
   - C++
   - Python
 ### - Currently learning
