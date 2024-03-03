@@ -1,5 +1,5 @@
 # I'm Yang An Yi ✨
-## I'm from Hwa Chong Junior College Infocomm and Robotics Society (Cybersecurity Section)
+## I'm from Hwa Chong JC / Infocomm and Robotics Society (Cybersecurity Section)
 ## Current Main Project: /cryptohack/
 
 ### - Currently learning
