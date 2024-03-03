@@ -1,13 +1,12 @@
 # I'm Yang An Yi ✨
-## I'm from HCI EC³/Infocomm and Robotics Society
-## Current Main Project: /public-transport-madness/
+## I'm from Hwa Chong Junior College Infocomm and Robotics Society (Cybersecurity Section)
+## Current Main Project: /cryptohack/
 
 ### - Currently learning
-  - picoCTF (Cybersecurity)
-  - C++
-  - Python
-  - Css (cssbattle.dev)
-  - Web Dev
+  - pwn (cyber)
+  - foren (cyber)
+  - Python applications
+
 ### Contact me at: ron.yanganyi@gmail.com
 
 ## <h3 align="left">GitHub Stats</h3>
