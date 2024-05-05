@@ -7,12 +7,6 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 
 ### Contact me at: ron.yanganyi@gmail.com
 
-## <h3 align="left">GitHub Stats</h3>
-
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=yanganyi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-
 <details>
 <summary>
   <strong>More Details</strong>
@@ -23,6 +17,7 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 **some langs**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
@@ -39,6 +34,14 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 ![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-black?style=flat&logo=stackoverflow)
 
 </details>
+
+## <h3 align="left">GitHub Stats</h3>
+
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=yanganyi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+
+
 
 
 <!--
