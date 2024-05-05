@@ -33,10 +33,11 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 ![Firefox](https://img.shields.io/badge/-Firefox-black?style=for-the-badge&logo=firefox)
 
 **devices**
+
 ![macOS](https://img.shields.io/badge/-macOS-black?style=for-the-badge&logo=macos)
-![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
-![Windows](https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows11)
 ![Kali Linux](https://img.shields.io/badge/-Kali-black?style=for-the-badge&logo=kalilinux)
+![Windows](https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=windows11)
+![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android)
 
 </details>
 
