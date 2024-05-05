@@ -21,7 +21,7 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 
 **dev envs**
 
-![VSCode](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/-VS_Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![XCode](https://img.shields.io/badge/-XCode-black?style=for-the-badge&logo=xcode)
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)
