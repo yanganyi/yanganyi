@@ -17,7 +17,7 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 **some langs**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat&logo=c%2B%2B)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
