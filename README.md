@@ -11,9 +11,6 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 <summary>
   <strong>More Details</strong>
 </summary>
-
-<br/>
-
 **some langs**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
