@@ -3,9 +3,9 @@
 Hi my name is An Yi and I'm a Cybersecurity enthusiast!
 Dabbling with a bit of Python, C++ and Machine Learning on the side
 
-### Contact me at: ron.yanganyi@gmail.com
+![trophy](https://github-profile-trophy.vercel.app/?username=yanganyi&theme=onedark&no-frame=true&row=1)
 
-## <h3 align="left">GitHub Stats</h3>
+### Contact me at: ron.yanganyi@gmail.com
 
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=yanganyi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
@@ -13,11 +13,12 @@ Dabbling with a bit of Python, C++ and Machine Learning on the side
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanganyi&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
   
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yanganyi&theme=onedark&no-frame=true&row=1)
 
+
+
+<!--
 ![](https://github-profile-trophy.vercel.app/?username=yanganyi&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
+-->
 <!--
 **yanganyi/yanganyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
