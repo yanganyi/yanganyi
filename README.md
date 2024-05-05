@@ -13,14 +13,11 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 </summary>
 <br/>
 
-**langs**
+**main langs**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=swift)
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)
 
 **dev envs**
 
@@ -32,6 +29,7 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 **browsers**
 
 ![Arc Browser](https://img.shields.io/badge/-Arc-black?style=for-the-badge&logo=arc)
+![Opera GX](https://img.shields.io/badge/-Opera-GX-black?style=for-the-badge&logo=operagx)
 ![Firefox](https://img.shields.io/badge/-Firefox-black?style=for-the-badge&logo=firefox)
 
 
