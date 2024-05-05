@@ -11,6 +11,7 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 <summary>
   <strong>More Details</strong>
 </summary>
+<br/>
 **some langs**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
@@ -32,7 +33,6 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 
 </details>
 
-## <h3 align="left">GitHub Stats</h3>
 
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=yanganyi&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
