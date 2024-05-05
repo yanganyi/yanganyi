@@ -29,7 +29,7 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 **browsers**
 
 ![Arc Browser](https://img.shields.io/badge/-Arc-black?style=for-the-badge&logo=arc)
-![Opera GX](https://img.shields.io/badge/-Opera-GX-black?style=for-the-badge&logo=operagx)
+![Firefox](https://img.shields.io/badge/-Opera_GX-black?style=for-the-badge&logo=operagx)
 ![Firefox](https://img.shields.io/badge/-Firefox-black?style=for-the-badge&logo=firefox)
 
 
