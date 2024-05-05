@@ -13,7 +13,7 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 </summary>
 <br/>
 
-**some langs**
+**langs**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
@@ -22,16 +22,18 @@ I dabble with a bit of Python, C++ and Machine Learning on the side too
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)
 
-**some things i use**
+**dev envs**
 
-![Firefox](https://img.shields.io/badge/-Firefox-black?style=for-the-badge&logo=firefox)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visualstudiocode)
-![Discord](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
 ![XCode](https://img.shields.io/badge/-XCode-black?style=for-the-badge&logo=xcode)
-![StackOverflow](https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=stackoverflow)
+![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github)
+
+**browsers**
+
+![Arc Browser](https://img.shields.io/badge/-Arc-black?style=for-the-badge&logo=arc)
+![Firefox](https://img.shields.io/badge/-Firefox-black?style=for-the-badge&logo=firefox)
+
 
 </details>
 
