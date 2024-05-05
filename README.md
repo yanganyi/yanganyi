@@ -1,7 +1,7 @@
-# annie52 ✨
+# annie52 
 
 Hi my name is An Yi and I'm a Cybersecurity enthusiast!
-Dabbling with a bit of Python, C++ and Machine Learning on the side
+I dabble with a bit of Python, C++ and Machine Learning on the side too
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yanganyi&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
