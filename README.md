@@ -1,6 +1,7 @@
 # annie52 
 
 hi my name is An Yi and i'm a cybersecurity enthusiast!
+currently doing crypto for cyber :D
 
 i dabble with a bit of Python, C++ and Machine Learning on the side too
 
