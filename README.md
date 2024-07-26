@@ -5,7 +5,9 @@ currently doing crypto for cyber :D
 
 i dabble with a bit of Python, C++ and Machine Learning on the side too
 
+<!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=yanganyi&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1)
+-->
 
 ### contact me at: ron.yanganyi@gmail.com
 
