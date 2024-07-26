@@ -45,6 +45,9 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 ## a little background
 
