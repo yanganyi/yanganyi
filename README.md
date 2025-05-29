@@ -46,7 +46,7 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2042%20mins-blue)
 
 **I'm an Early 🐤** 
 
