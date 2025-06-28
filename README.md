@@ -46,7 +46,7 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2021%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -86,7 +86,7 @@ VS Code                  5 hrs 33 mins       █████████░░�
 🐱‍💻 Projects: 
 final_upload             6 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.61 % 
 ICOBLUECOMP              4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-ICORED                   3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+ICORED                   3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
 icoblue files            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
