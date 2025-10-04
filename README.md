@@ -46,6 +46,45 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2035%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                127 commits         ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+🌆 Daytime                241 commits         ████████████░░░░░░░░░░░░░   48.88 % 
+🌃 Evening                93 commits          █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+🌙 Night                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   134 commits         ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Tuesday                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Wednesday                28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Thursday                 55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Friday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Sunday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
