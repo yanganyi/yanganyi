@@ -51,21 +51,21 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                136 commits         ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-🌆 Daytime                227 commits         ███████████░░░░░░░░░░░░░░   44.16 % 
-🌃 Evening                97 commits          █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-🌙 Night                  54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+🌞 Morning                138 commits         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌆 Daytime                227 commits         ███████████░░░░░░░░░░░░░░   43.65 % 
+🌃 Evening                98 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+🌙 Night                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   158 commits         ████████░░░░░░░░░░░░░░░░░   30.74 % 
-Tuesday                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Saturday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Sunday                   89 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Monday                   161 commits         ████████░░░░░░░░░░░░░░░░░   30.96 % 
+Tuesday                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Friday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Saturday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Sunday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 ```
 
 
