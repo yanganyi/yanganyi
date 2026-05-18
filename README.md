@@ -46,47 +46,6 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2025%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                224 commits         ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-🌆 Daytime                233 commits         ████████░░░░░░░░░░░░░░░░░   30.03 % 
-🌃 Evening                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-🌙 Night                  186 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   275 commits         █████████░░░░░░░░░░░░░░░░   35.44 % 
-Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Friday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Saturday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Sunday                   181 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    25 mins             ████████████████████████░   97.91 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-
-🔥 Editors: 
-Terminal                 20 mins             ████████████████████░░░░░   78.27 % 
-VS Code                  5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-
-🐱‍💻 Projects: 
-schl                     26 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
