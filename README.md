@@ -46,24 +46,26 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2029%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                224 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-🌆 Daytime                233 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-🌃 Evening                138 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-🌙 Night                  186 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+🌞 Morning                224 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+🌆 Daytime                233 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+🌃 Evening                139 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+🌙 Night                  186 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   275 commits         █████████░░░░░░░░░░░░░░░░   35.21 % 
-Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Monday                   275 commits         █████████░░░░░░░░░░░░░░░░   35.17 % 
+Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Friday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Saturday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Sunday                   181 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Friday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Sunday                   181 commits         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
 ```
 
 
