@@ -46,6 +46,51 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                224 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+🌆 Daytime                233 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌃 Evening                138 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+🌙 Night                  186 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   275 commits         █████████░░░░░░░░░░░░░░░░   35.21 % 
+Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Thursday                 51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Friday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Saturday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Sunday                   181 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    1 hr 29 mins        █████████████░░░░░░░░░░░░   53.28 % 
+TypeScript               44 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+CSS                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+
+🔥 Editors: 
+Terminal                 1 hr 29 mins        █████████████░░░░░░░░░░░░   53.28 % 
+VS Code                  1 hr 18 mins        ████████████░░░░░░░░░░░░░   46.72 % 
+
+🐱‍💻 Projects: 
+Playground               1 hr 25 mins        █████████████░░░░░░░░░░░░   50.65 % 
+schl                     48 mins             ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+Unknown Project          19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+floating-bridge          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+
+💻 Operating System: 
+Mac                      2 hrs 48 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
