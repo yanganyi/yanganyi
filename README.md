@@ -46,7 +46,54 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%205%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                224 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌆 Daytime                233 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+🌃 Evening                141 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+🌙 Night                  186 commits         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   275 commits         █████████░░░░░░░░░░░░░░░░   35.08 % 
+Tuesday                  73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Friday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Saturday                 72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Sunday                   181 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   5 hrs 38 mins       █████████████░░░░░░░░░░░░   52.49 % 
+Other                    2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Text                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+HTML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.91 % 
+Claude Code              2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Terminal                 2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+
+🐱‍💻 Projects: 
+sgco30may                3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+schl                     2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+Unknown Project          1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Playground               1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+grey26                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+
+💻 Operating System: 
+Mac                      10 hrs 45 mins      █████████████████████████   100.00 % 
+```
 
 
 <!--END_SECTION:waka-->
