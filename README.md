@@ -73,16 +73,16 @@ Sunday                   191 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yanganyi.com             51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
