@@ -49,21 +49,21 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                232 commits         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-🌆 Daytime                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-🌃 Evening                618 commits         ████████████░░░░░░░░░░░░░   48.06 % 
-🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌞 Morning                232 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌆 Daytime                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+🌃 Evening                598 commits         ████████████░░░░░░░░░░░░░   47.24 % 
+🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Tuesday                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Thursday                 350 commits         ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Saturday                 252 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Sunday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Monday                   290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Tuesday                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Thursday                 338 commits         ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Saturday                 244 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Sunday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 ```
 
 
@@ -71,16 +71,22 @@ Sunday                   188 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   31 mins             ██████████████████░░░░░░░   70.98 % 
+Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+C                        3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████░░░░   83.91 % 
+Terminal                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+iycep_trng               39 mins             ██████████████████████░░░   88.52 % 
+Unknown Project          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 
