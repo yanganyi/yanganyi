@@ -46,24 +46,26 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2057%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                232 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-🌆 Daytime                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-🌃 Evening                598 commits         ████████████░░░░░░░░░░░░░   47.24 % 
-🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+🌆 Daytime                228 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+🌃 Evening                644 commits         ████████████░░░░░░░░░░░░░   48.97 % 
+🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Tuesday                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Thursday                 338 commits         ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Saturday                 244 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Sunday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Monday                   290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Tuesday                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Thursday                 365 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Saturday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Sunday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 ```
 
 
@@ -71,22 +73,24 @@ Sunday                   188 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   31 mins             ██████████████████░░░░░░░   70.98 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-C                        3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Other                    1 hr 14 mins        ███████████░░░░░░░░░░░░░░   44.39 % 
+Python                   55 mins             ████████░░░░░░░░░░░░░░░░░   33.06 % 
+TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████░░░░   83.91 % 
-Terminal                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+VS Code                  2 hrs 6 mins        ███████████████████░░░░░░   75.59 % 
+Terminal                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
 
 🐱‍💻 Projects: 
-iycep_trng               39 mins             ██████████████████████░░░   88.52 % 
-Unknown Project          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+schl                     1 hr 25 mins        █████████████░░░░░░░░░░░░   50.89 % 
+iycep_trng               51 mins             ████████░░░░░░░░░░░░░░░░░   30.85 % 
+Playground               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
