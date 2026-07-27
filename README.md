@@ -46,26 +46,26 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-🌆 Daytime                228 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-🌃 Evening                644 commits         ████████████░░░░░░░░░░░░░   48.97 % 
-🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+🌆 Daytime                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+🌃 Evening                644 commits         ████████████░░░░░░░░░░░░░   48.75 % 
+🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Tuesday                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Thursday                 365 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Saturday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Sunday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Tuesday                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Thursday                 365 commits         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Saturday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 ```
 
 
@@ -73,24 +73,25 @@ Sunday                   188 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 14 mins        ███████████░░░░░░░░░░░░░░   44.39 % 
-Python                   55 mins             ████████░░░░░░░░░░░░░░░░░   33.06 % 
-TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Other                    2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
+Markdown                 1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Bash                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        ███████████████████░░░░░░   75.59 % 
-Terminal                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+VS Code                  5 hrs 10 mins       ███████████████████░░░░░░   76.80 % 
+Terminal                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 
 🐱‍💻 Projects: 
-schl                     1 hr 25 mins        █████████████░░░░░░░░░░░░   50.89 % 
-iycep_trng               51 mins             ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Playground               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+schl                     2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.22 % 
+yanganyi.com             2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.51 % 
+Playground               1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+iycep_trng               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 💻 Operating System: 
-Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
