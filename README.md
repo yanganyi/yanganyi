@@ -46,26 +46,28 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%209%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-🌆 Daytime                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-🌃 Evening                644 commits         ████████████░░░░░░░░░░░░░   48.75 % 
-🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+🌆 Daytime                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+🌃 Evening                654 commits         ████████████░░░░░░░░░░░░░   49.10 % 
+🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Tuesday                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Thursday                 365 commits         ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Saturday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Tuesday                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Thursday                 371 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Saturday                 271 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 ```
 
 
@@ -92,6 +94,28 @@ Unknown Project          5 mins              ░░░░░░░░░░░�
 
 💻 Operating System: 
 Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 57 mins (58.68%)
+
+✍️ 2,443 lines written by AI, 1,910 lines written by hand (56.12% AI-written)
+
+🔤 46,168,970 Input Tokens, 350,087 Output Tokens
+
+💵 $241.35 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 45 AI Prompts
+
+GPT                      2,799 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 56.12% of written lines came from AI
+📝 Concise Prompter — average 225 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 55.42% of changed lines were hand-edited
 ```
 
 
