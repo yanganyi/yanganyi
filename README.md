@@ -53,21 +53,21 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-🌆 Daytime                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-🌃 Evening                664 commits         ████████████░░░░░░░░░░░░░   49.44 % 
-🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+🌆 Daytime                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+🌃 Evening                665 commits         ████████████░░░░░░░░░░░░░   49.48 % 
+🌙 Night                  211 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
 Tuesday                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Thursday                 377 commits         ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Saturday                 276 commits         █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Thursday                 378 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Friday                   107 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Saturday                 276 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 ```
 
 
@@ -75,31 +75,31 @@ Sunday                   194 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Markdown                 1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Bash                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other                    2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Markdown                 1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Bash                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 10 mins       ███████████████████░░░░░░   76.80 % 
-Terminal                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+VS Code                  5 hrs 13 mins       ███████████████████░░░░░░   77.00 % 
+Terminal                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
 
 🐱‍💻 Projects: 
-schl                     2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.22 % 
-yanganyi.com             2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Playground               1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-iycep_trng               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+schl                     2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.79 % 
+yanganyi.com             2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Playground               1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+iycep_trng               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 Operating System: 
-Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (58.68%)
+⏱ AI Coding Time: 3 hrs 57 mins (58.17%)
 
 ✍️ 2,443 lines written by AI, 1,910 lines written by hand (56.12% AI-written)
 
