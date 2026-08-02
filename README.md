@@ -75,47 +75,46 @@ Sunday                   194 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.92 % 
-Other                    2 hrs               ████████░░░░░░░░░░░░░░░░░   30.94 % 
-Bash                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Markdown                 2 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.67 % 
+Bash                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         ███████████████████░░░░░░   77.70 % 
-Terminal                 1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+VS Code                  3 hrs 31 mins       ████████████████████░░░░░   80.00 % 
+Terminal                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 
 🐱‍💻 Projects: 
-yanganyi.com             2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.00 % 
-schl                     2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
-Playground               1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-iycep_trng               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+yanganyi.com             2 hrs 27 mins       ██████████████░░░░░░░░░░░   55.88 % 
+Playground               59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+schl                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      6 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 21 mins (67.32%)
+⏱ AI Coding Time: 3 hrs 24 mins (77.37%)
 
-✍️ 2,601 lines written by AI, 1,701 lines written by hand (60.46% AI-written)
+✍️ 2,479 lines written by AI, 29 lines written by hand (98.84% AI-written)
 
-🔤 54,126,483 Input Tokens, 389,767 Output Tokens
+🔤 44,560,044 Input Tokens, 289,469 Output Tokens
 
-💵 $282.33 Estimated AI Cost This Week
+💵 $231.48 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 50 AI Prompts
+🧠 7 AI Sessions, 40 AI Prompts
 
-GPT                      2,957 lines         █████████████████████████   100.00 % 
+GPT                      2,834 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.46% of written lines came from AI
-📝 Concise Prompter — average 224 characters per prompt
+🤖 AI-Driven — 98.84% of written lines came from AI
+📝 Concise Prompter — average 251 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 52.41% of changed lines were hand-edited
+🚀 High AI Trust — 3.54% of changed lines were hand-edited
 ```
 
 
