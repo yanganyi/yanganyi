@@ -53,21 +53,21 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-🌆 Daytime                238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-🌃 Evening                685 commits         █████████████░░░░░░░░░░░░   50.18 % 
-🌙 Night                  210 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+🌞 Morning                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+🌆 Daytime                238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+🌃 Evening                698 commits         █████████████░░░░░░░░░░░░   50.65 % 
+🌙 Night                  210 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Tuesday                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Thursday                 390 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Friday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Saturday                 286 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Sunday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Tuesday                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Thursday                 390 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+Friday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Saturday                 286 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Sunday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 ```
 
 
@@ -75,22 +75,42 @@ Sunday                   194 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 4 mins         ███████████░░░░░░░░░░░░░░   43.70 % 
+JavaScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yanganyi.com             1 hr 47 mins        ██████████████████░░░░░░░   72.68 % 
+Playground               40 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 50 mins (74.4%)
+
+✍️ 344 lines written by AI, 16 lines written by hand (95.56% AI-written)
+
+🔤 1,082,944 Input Tokens, 150,676 Output Tokens
+
+💵 $15.57 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 43 AI Prompts
+
+GPT                      438 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.56% of written lines came from AI
+📝 Concise Prompter — average 150 characters per prompt
+🔁 Iterative Prompter — average 43 prompts per session
+🚀 High AI Trust — 20.51% of changed lines were hand-edited
 ```
 
 
