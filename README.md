@@ -75,17 +75,17 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 4 mins         ███████████░░░░░░░░░░░░░░   43.70 % 
-JavaScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Markdown                 1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.82 % 
+JavaScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-yanganyi.com             1 hr 47 mins        ██████████████████░░░░░░░   72.68 % 
-Playground               40 mins             ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+yanganyi.com             1 hr 47 mins        ██████████████████░░░░░░░   72.74 % 
+Playground               40 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
 
 💻 Operating System: 
 Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
@@ -94,7 +94,7 @@ Mac                      2 hrs 28 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (74.4%)
+⏱ AI Coding Time: 1 hr 50 mins (74.45%)
 
 ✍️ 344 lines written by AI, 16 lines written by hand (95.56% AI-written)
 
@@ -110,7 +110,7 @@ GPT                      438 lines           ███████████�
 🤖 AI-Driven — 95.56% of written lines came from AI
 📝 Concise Prompter — average 150 characters per prompt
 🔁 Iterative Prompter — average 43 prompts per session
-🚀 High AI Trust — 20.51% of changed lines were hand-edited
+🚀 High AI Trust — 20.8% of changed lines were hand-edited
 ```
 
 
