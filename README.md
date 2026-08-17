@@ -75,42 +75,22 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.82 % 
-JavaScript               42 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Other                    40 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yanganyi.com             1 hr 47 mins        ██████████████████░░░░░░░   72.74 % 
-Playground               40 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (74.45%)
-
-✍️ 344 lines written by AI, 16 lines written by hand (95.56% AI-written)
-
-🔤 1,082,944 Input Tokens, 150,676 Output Tokens
-
-💵 $15.57 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 43 AI Prompts
-
-GPT                      438 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.56% of written lines came from AI
-📝 Concise Prompter — average 150 characters per prompt
-🔁 Iterative Prompter — average 43 prompts per session
-🚀 High AI Trust — 20.8% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
