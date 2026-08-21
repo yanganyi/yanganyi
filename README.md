@@ -75,22 +75,47 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               56 mins             ███████████░░░░░░░░░░░░░░   42.82 % 
+CSS                      30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Other                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             1 hr 43 mins        ████████████████████░░░░░   78.25 % 
+Terminal                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Playground               1 hr 13 mins        ██████████████░░░░░░░░░░░   55.30 % 
+yanganyi.com             42 mins             ████████░░░░░░░░░░░░░░░░░   32.51 % 
+yanganyi-portfolio-contra10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+yanganyi-portfolio-stando5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 3 mins (93.51%)
+
+✍️ 2,149 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,440,307 Input Tokens, 364,134 Output Tokens
+
+💵 $28.61 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 31 AI Prompts
+
+GPT                      2,218 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 365 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
