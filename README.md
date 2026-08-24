@@ -75,31 +75,31 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               56 mins             ███████████░░░░░░░░░░░░░░   42.82 % 
-CSS                      30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Other                    27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JavaScript               56 mins             ██████████░░░░░░░░░░░░░░░   40.13 % 
+Other                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+CSS                      30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 43 mins        ████████████████████░░░░░   78.25 % 
-Terminal                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Codex Vscode             1 hr 43 mins        ██████████████████░░░░░░░   73.34 % 
+Terminal                 35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 Projects: 
-Playground               1 hr 13 mins        ██████████████░░░░░░░░░░░   55.30 % 
-yanganyi.com             42 mins             ████████░░░░░░░░░░░░░░░░░   32.51 % 
-yanganyi-portfolio-contra10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-yanganyi-portfolio-stando5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Playground               1 hr 21 mins        ███████████████░░░░░░░░░░   58.10 % 
+yanganyi.com             42 mins             ████████░░░░░░░░░░░░░░░░░   30.47 % 
+yanganyi-portfolio-contra10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+yanganyi-portfolio-stando5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 💻 Operating System: 
-Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (93.51%)
+⏱ AI Coding Time: 2 hrs 3 mins (87.64%)
 
 ✍️ 2,149 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
