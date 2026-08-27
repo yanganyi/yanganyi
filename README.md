@@ -75,46 +75,47 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               56 mins             ██████████░░░░░░░░░░░░░░░   40.13 % 
-Other                    35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-CSS                      30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+JavaScript               56 mins             █████████░░░░░░░░░░░░░░░░   36.55 % 
+Other                    43 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+CSS                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 43 mins        ██████████████████░░░░░░░   73.34 % 
-Terminal                 35 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Codex Vscode             1 hr 54 mins        ███████████████████░░░░░░   74.12 % 
+Terminal                 37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-Playground               1 hr 21 mins        ███████████████░░░░░░░░░░   58.10 % 
-yanganyi.com             42 mins             ████████░░░░░░░░░░░░░░░░░   30.47 % 
-yanganyi-portfolio-contra10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-yanganyi-portfolio-stando5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Playground               1 hr 29 mins        ██████████████░░░░░░░░░░░   57.73 % 
+yanganyi.com             42 mins             ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+yanganyi-portfolio-contra10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+profectus                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+yanganyi-portfolio-stando5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Mac                      2 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (87.64%)
+⏱ AI Coding Time: 2 hrs 17 mins (88.74%)
 
-✍️ 2,149 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,209 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,440,307 Input Tokens, 364,134 Output Tokens
+🔤 1,843,872 Input Tokens, 429,474 Output Tokens
 
-💵 $28.61 Estimated AI Cost This Week
+💵 $32.38 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 31 AI Prompts
+🧠 3 AI Sessions, 37 AI Prompts
 
-GPT                      2,218 lines         █████████████████████████   100.00 % 
+GPT                      2,279 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 365 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📝 Concise Prompter — average 399 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
