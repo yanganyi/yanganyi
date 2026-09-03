@@ -75,46 +75,46 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 47 mins       ███████████████░░░░░░░░░░   58.99 % 
-CSS                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+HTML                     2 hrs 42 mins       ███████████████░░░░░░░░░░   60.63 % 
+CSS                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 26 mins       ██████████████████░░░░░░░   72.99 % 
-VS Code                  58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Terminal                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Codex Vscode             3 hrs 14 mins       ██████████████████░░░░░░░   72.47 % 
+VS Code                  58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Terminal                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🐱‍💻 Projects: 
-profectus                3 hrs 44 mins       ████████████████████░░░░░   79.34 % 
-Playground               58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+profectus                3 hrs 37 mins       ████████████████████░░░░░   81.17 % 
+Playground               50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 
 💻 Operating System: 
-Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 27 mins (94.57%)
+⏱ AI Coding Time: 4 hrs 13 mins (94.28%)
 
-✍️ 6,596 lines written by AI, 84 lines written by hand (98.74% AI-written)
+✍️ 6,536 lines written by AI, 84 lines written by hand (98.73% AI-written)
 
-🔤 2,431,074 Input Tokens, 523,114 Output Tokens
+🔤 2,019,955 Input Tokens, 455,030 Output Tokens
 
-💵 $76.73 Estimated AI Cost This Week
+💵 $72.83 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 45 AI Prompts
+🧠 4 AI Sessions, 39 AI Prompts
 
-GPT                      5,898 lines         ██████████████████████░░░   87.25 % 
-Codex-Vscode             862 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+GPT                      5,837 lines         ██████████████████████░░░   87.13 % 
+Codex-Vscode             862 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.74% of written lines came from AI
-📝 Concise Prompter — average 498 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.26% of changed lines were hand-edited
+🤖 AI-Driven — 98.73% of written lines came from AI
+📝 Concise Prompter — average 486 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 1.27% of changed lines were hand-edited
 ```
 
 
