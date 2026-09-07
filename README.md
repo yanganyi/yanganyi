@@ -75,46 +75,22 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               12 mins             █████████░░░░░░░░░░░░░░░░   35.72 % 
-JSON                     12 mins             █████████░░░░░░░░░░░░░░░░   35.04 % 
-CSS                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Apache Config            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             32 mins             ████████████████████████░   94.87 % 
-Terminal                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Playground               33 mins             ████████████████████████░   96.37 % 
-profectus                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (96.37%)
-
-✍️ 1,692 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 357,082 Input Tokens, 79,427 Output Tokens
-
-💵 $40.63 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-GPT                      1,785 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 234 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
