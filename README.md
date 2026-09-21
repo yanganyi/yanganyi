@@ -46,9 +46,9 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2051%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,22 +75,42 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 47 mins       ██████████████████████░░░   87.68 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             3 hrs 30 mins       ████████████████████░░░░░   81.31 % 
+Terminal                 48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tisc                     4 hrs 9 mins        ████████████████████████░   96.21 % 
+yanganyi.com-3d          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 19 mins (99.91%)
+
+✍️ 1,044 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,189,595 Input Tokens, 239,007 Output Tokens
+
+💵 $119.70 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 24 AI Prompts
+
+GPT                      963 lines           █████████████████████░░░░   85.22 % 
+Codex-Vscode             167 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,151 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
