@@ -75,42 +75,22 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 49 mins       ██████████████████░░░░░░░   72.49 % 
-Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             3 hrs 30 mins       █████████████████░░░░░░░░   66.67 % 
-Terminal                 1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   33.33 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tisc                     4 hrs 24 mins       █████████████████████░░░░   83.61 % 
-yanganyi.com-3d          51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 16 mins (99.93%)
-
-✍️ 1,657 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,948,119 Input Tokens, 305,133 Output Tokens
-
-💵 $200.00 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 48 AI Prompts
-
-GPT                      963 lines           ██████████████░░░░░░░░░░░   55.25 % 
-Codex-Vscode             780 lines           ███████████░░░░░░░░░░░░░░   44.75 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,312 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
