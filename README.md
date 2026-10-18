@@ -48,26 +48,26 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-🌆 Daytime                238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-🌃 Evening                700 commits         █████████████░░░░░░░░░░░░   50.61 % 
-🌙 Night                  210 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌞 Morning                235 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+🌆 Daytime                238 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+🌃 Evening                701 commits         █████████████░░░░░░░░░░░░   50.65 % 
+🌙 Night                  210 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Monday                   290 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
 Tuesday                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 Wednesday                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Thursday                 391 commits         ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+Thursday                 391 commits         ███████░░░░░░░░░░░░░░░░░░   28.25 % 
 Friday                   106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Saturday                 290 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Sunday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Sunday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 ```
 
 
@@ -75,43 +75,48 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 mins             ████████████████████████░   97.68 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Other                    52 mins             ████████░░░░░░░░░░░░░░░░░   30.67 % 
+TOML                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Python                   37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+JSON                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Terminal                 20 mins             ███████████████████████░░   93.55 % 
-Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Codex Vscode             1 hr 58 mins        █████████████████░░░░░░░░   68.78 % 
+Terminal                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🐱‍💻 Projects: 
-yanganyi.com-3d          13 mins             ████████████████░░░░░░░░░   62.00 % 
-Playground               7 mins              █████████░░░░░░░░░░░░░░░░   35.68 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Playground               1 hr 34 mins        ██████████████░░░░░░░░░░░   54.87 % 
+pennylane                26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Unknown Project          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+yanganyi.com-3d          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+portfolio projects       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (6.24%)
+⏱ AI Coding Time: 2 hrs 1 min (70.66%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 133 lines written by AI, 11 lines written by hand (92.36% AI-written)
 
-🔤 35,174 Input Tokens, 213 Output Tokens
+🔤 926,492 Input Tokens, 40,925 Output Tokens
 
-💵 $0.08 Estimated AI Cost This Week
+💵 $3.75 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 17 AI Sessions, 59 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      133 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 325 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 92.36% of written lines came from AI
+📄 Detailed Prompter — average 507 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 10.14% of changed lines were hand-edited
 ```
 
 
