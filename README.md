@@ -46,9 +46,9 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2034%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,48 +75,49 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    52 mins             ████████░░░░░░░░░░░░░░░░░   30.67 % 
-TOML                     42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-Python                   37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-JSON                     36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   7 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.51 % 
+Kotlin                   7 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+Other                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 58 mins        █████████████████░░░░░░░░   68.78 % 
-Terminal                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Codex Vscode             20 hrs 25 mins      ████████████████████████░   94.59 % 
+Terminal                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🐱‍💻 Projects: 
-Playground               1 hr 34 mins        ██████████████░░░░░░░░░░░   54.87 % 
-pennylane                26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Unknown Project          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-yanganyi.com-3d          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-portfolio projects       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+sgbus_android            16 hrs 11 mins      ███████████████████░░░░░░   74.97 % 
+Playground               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+portfolio projects       1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+afterdeal                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+pennylane                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 1 min (70.66%)
+⏱ AI Coding Time: 20 hrs 41 mins (95.87%)
 
-✍️ 133 lines written by AI, 11 lines written by hand (92.36% AI-written)
+✍️ 2,764 lines written by AI, 11 lines written by hand (99.6% AI-written)
 
-🔤 926,492 Input Tokens, 40,925 Output Tokens
+🔤 8,369,893 Input Tokens, 2,312,079 Output Tokens
 
-💵 $3.75 Estimated AI Cost This Week
+💵 $128.41 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 59 AI Prompts
+🧠 20 AI Sessions, 90 AI Prompts
 
-GPT                      133 lines           █████████████████████████   100.00 % 
+GPT                      2,767 lines         █████████████████████████   99.86 % 
+Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.36% of written lines came from AI
-📄 Detailed Prompter — average 507 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 10.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.6% of written lines came from AI
+📄 Detailed Prompter — average 644 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 
