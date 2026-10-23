@@ -75,49 +75,49 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   13 hrs 34 mins      ███████████░░░░░░░░░░░░░░   45.04 % 
-Kotlin                   9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.91 % 
-Other                    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Markdown                 1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Python                   15 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.59 % 
+Kotlin                   9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
+Other                    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Markdown                 1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Codex Vscode             28 hrs 58 mins      ████████████████████████░   96.12 % 
-Terminal                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Codex Vscode             30 hrs 26 mins      ████████████████████████░   96.30 % 
+Terminal                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🐱‍💻 Projects: 
-sgbus_android            24 hrs 39 mins      ████████████████████░░░░░   81.77 % 
-Playground               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-portfolio projects       1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-afterdeal                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-pennylane                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+sgbus_android            24 hrs 39 mins      ███████████████████░░░░░░   77.98 % 
+Playground               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+pennylane r3             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+portfolio projects       1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+afterdeal                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Mac                      30 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      31 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 15 mins (97.05%)
+⏱ AI Coding Time: 30 hrs 43 mins (97.18%)
 
-✍️ 3,800 lines written by AI, 11 lines written by hand (99.71% AI-written)
+✍️ 3,998 lines written by AI, 11 lines written by hand (99.73% AI-written)
 
-🔤 11,069,912 Input Tokens, 3,049,157 Output Tokens
+🔤 12,115,388 Input Tokens, 3,211,048 Output Tokens
 
-💵 $159.98 Estimated AI Cost This Week
+💵 $181.87 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 95 AI Prompts
+🧠 42 AI Sessions, 116 AI Prompts
 
-GPT                      3,803 lines         █████████████████████████   99.89 % 
-Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+GPT                      4,001 lines         █████████████████████████   99.90 % 
+Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📄 Detailed Prompter — average 676 characters per prompt
+🤖 AI-Driven — 99.73% of written lines came from AI
+📄 Detailed Prompter — average 809 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 
