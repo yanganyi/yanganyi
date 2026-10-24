@@ -46,9 +46,9 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2036%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,49 +75,49 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 2 mins       ████████████░░░░░░░░░░░░░   47.59 % 
-Kotlin                   9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
-Other                    2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Markdown                 1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   14 hrs 36 mins      ████████████░░░░░░░░░░░░░   47.25 % 
+Kotlin                   9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Other                    2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Markdown                 1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Codex Vscode             30 hrs 26 mins      ████████████████████████░   96.30 % 
-Terminal                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Codex Vscode             30 hrs              ████████████████████████░   97.04 % 
+Terminal                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🐱‍💻 Projects: 
-sgbus_android            24 hrs 39 mins      ███████████████████░░░░░░   77.98 % 
-Playground               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-pennylane r3             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-portfolio projects       1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-afterdeal                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+sgbus_android            24 hrs 39 mins      ████████████████████░░░░░   79.72 % 
+Playground               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+pennylane r3             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+portfolio projects       1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+afterdeal                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-Mac                      31 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 43 mins (97.18%)
+⏱ AI Coding Time: 30 hrs 16 mins (97.91%)
 
-✍️ 3,998 lines written by AI, 11 lines written by hand (99.73% AI-written)
+✍️ 3,944 lines written by AI, 11 lines written by hand (99.72% AI-written)
 
-🔤 12,115,388 Input Tokens, 3,211,048 Output Tokens
+🔤 11,964,595 Input Tokens, 3,199,755 Output Tokens
 
-💵 $181.87 Estimated AI Cost This Week
+💵 $181.25 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 116 AI Prompts
+🧠 34 AI Sessions, 108 AI Prompts
 
-GPT                      4,001 lines         █████████████████████████   99.90 % 
+GPT                      3,947 lines         █████████████████████████   99.90 % 
 Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📄 Detailed Prompter — average 809 characters per prompt
+🤖 AI-Driven — 99.72% of written lines came from AI
+📄 Detailed Prompter — average 663 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🚀 High AI Trust — 0.38% of changed lines were hand-edited
 ```
 
 
