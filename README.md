@@ -48,7 +48,7 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2037%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,49 +75,49 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 36 mins      ████████████░░░░░░░░░░░░░   47.25 % 
-Kotlin                   9 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.08 % 
-Other                    2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Markdown                 1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   30 hrs 50 mins      ███████████████░░░░░░░░░░   58.74 % 
+Kotlin                   15 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+Markdown                 2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Other                    2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-Codex Vscode             30 hrs              ████████████████████████░   97.04 % 
-Terminal                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Codex Vscode             51 hrs 49 mins      █████████████████████████   98.70 % 
+Terminal                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-sgbus_android            24 hrs 39 mins      ████████████████████░░░░░   79.72 % 
-Playground               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-pennylane r3             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-portfolio projects       1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-afterdeal                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+sgbus_android            47 hrs 16 mins      ███████████████████████░░   90.03 % 
+pennylane r3             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+afterdeal                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+portfolio projects       1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Playground               52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Mac                      30 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      52 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 16 mins (97.91%)
+⏱ AI Coding Time: 52 hrs 5 mins (99.21%)
 
-✍️ 3,944 lines written by AI, 11 lines written by hand (99.72% AI-written)
+✍️ 6,436 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,964,595 Input Tokens, 3,199,755 Output Tokens
+🔤 17,895,006 Input Tokens, 4,903,655 Output Tokens
 
-💵 $181.25 Estimated AI Cost This Week
+💵 $256.78 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 108 AI Prompts
+🧠 39 AI Sessions, 99 AI Prompts
 
-GPT                      3,947 lines         █████████████████████████   99.90 % 
-Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+GPT                      6,443 lines         █████████████████████████   99.94 % 
+Codex-Vscode             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📄 Detailed Prompter — average 663 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 784 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.38% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
