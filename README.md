@@ -48,7 +48,7 @@ i dabble with a bit of Python, C++ and Machine Learning on the side too
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2041%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,46 +75,46 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   22 hrs 41 mins      █████████████████░░░░░░░░   69.68 % 
-Kotlin                   7 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Python                   14 hrs 15 mins      ███████████████████░░░░░░   76.52 % 
+Kotlin                   2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Codex Vscode             32 hrs 1 min        █████████████████████████   98.29 % 
-Terminal                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Codex Vscode             18 hrs 5 mins       ████████████████████████░   97.06 % 
+Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🐱‍💻 Projects: 
-sgbus_android            29 hrs 43 mins      ███████████████████████░░   91.21 % 
-pennylane r3             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Playground               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-current-positions-xpev-2010 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+sgbus_android            15 hrs 58 mins      █████████████████████░░░░   85.72 % 
+pennylane r3             1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Playground               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+current-positions-xpev-2010 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Mac                      32 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 3 mins (98.42%)
+⏱ AI Coding Time: 18 hrs 7 mins (97.27%)
 
-✍️ 3,507 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,284 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,206,957 Input Tokens, 2,496,009 Output Tokens
+🔤 6,238,199 Input Tokens, 1,257,837 Output Tokens
 
-💵 $126.67 Estimated AI Cost This Week
+💵 $78.64 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 69 AI Prompts
+🧠 32 AI Sessions, 58 AI Prompts
 
-GPT                      3,507 lines         █████████████████████████   100.00 % 
+GPT                      1,284 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 736 characters per prompt
+📄 Detailed Prompter — average 868 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
