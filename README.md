@@ -75,46 +75,44 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 15 mins      ███████████████████░░░░░░   76.52 % 
-Kotlin                   2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-CSV                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Python                   1 hr 27 mins        ███████████████░░░░░░░░░░   58.14 % 
+Other                    48 mins             ████████░░░░░░░░░░░░░░░░░   32.23 % 
+CSV                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 
 🔥 Editors: 
-Codex Vscode             18 hrs 5 mins       ████████████████████████░   97.06 % 
-Terminal                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Codex Vscode             1 hr 58 mins        ████████████████████░░░░░   78.56 % 
+VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Terminal                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 
 🐱‍💻 Projects: 
-sgbus_android            15 hrs 58 mins      █████████████████████░░░░   85.72 % 
-pennylane r3             1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Playground               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-current-positions-xpev-2010 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+pennylane r3             1 hr 27 mins        ███████████████░░░░░░░░░░   58.14 % 
+Playground               33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Unknown Project          14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+current-positions-xpev-2010 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+photo                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Mac                      18 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 7 mins (97.27%)
+⏱ AI Coding Time: 2 hrs (79.79%)
 
-✍️ 1,284 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 198 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,238,199 Input Tokens, 1,257,837 Output Tokens
+🔤 1,460,421 Input Tokens, 187,798 Output Tokens
 
-💵 $78.64 Estimated AI Cost This Week
+💵 $23.95 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 58 AI Prompts
+🧠 24 AI Sessions, 49 AI Prompts
 
-GPT                      1,284 lines         █████████████████████████   100.00 % 
+GPT                      259 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 868 characters per prompt
+📄 Detailed Prompter — average 891 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
