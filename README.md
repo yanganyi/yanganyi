@@ -75,44 +75,42 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    22 mins             ███████████████░░░░░░░░░░   60.74 % 
-CSV                      14 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
+CSV                      14 mins             █████████████░░░░░░░░░░░░   53.01 % 
+Other                    12 mins             ████████████░░░░░░░░░░░░░   46.99 % 
 
 🔥 Editors: 
-VS Code                  16 mins             ███████████░░░░░░░░░░░░░░   44.21 % 
-Terminal                 16 mins             ███████████░░░░░░░░░░░░░░   43.27 % 
-Codex Vscode             4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+VS Code                  14 mins             █████████████░░░░░░░░░░░░   53.01 % 
+Terminal                 8 mins              ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Codex Vscode             3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
-current-positions-xpev-2010 mins             ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-Playground               7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-photo                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-important-dates-for-oct-20 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Unknown Project          14 mins             █████████████░░░░░░░░░░░░   53.01 % 
+current-positions-xpev-208 mins              ████████░░░░░░░░░░░░░░░░░   32.69 % 
+photo                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 
 💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.00 % 
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (17.56%)
+⏱ AI Coding Time: 3 mins (14.3%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 244,000 Input Tokens, 1,695 Output Tokens
+🔤 46,522 Input Tokens, 1,293 Output Tokens
 
-💵 $1.17 Estimated AI Cost This Week
+💵 $0.76 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 GPT                      61 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,010 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 725 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
