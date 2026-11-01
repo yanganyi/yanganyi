@@ -75,43 +75,47 @@ Sunday                   207 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSV                      14 mins             █████████████░░░░░░░░░░░░   53.01 % 
-Other                    12 mins             ████████████░░░░░░░░░░░░░   46.99 % 
+Other                    2 hrs 55 mins       ██████████████░░░░░░░░░░░   55.97 % 
+Python                   1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Text                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████░░░░░░░░░░░░   53.01 % 
-Terminal                 8 mins              ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Codex Vscode             3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Codex Vscode             5 hrs 1 min         ████████████████████████░   95.90 % 
+Terminal                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 mins             █████████████░░░░░░░░░░░░   53.01 % 
-current-positions-xpev-208 mins              ████████░░░░░░░░░░░░░░░░░   32.69 % 
-photo                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Playground               2 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.38 % 
+are                      1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   31.72 % 
+gctf chall setting       38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+current-positions-xpev-2013 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+dropshipping             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (14.3%)
+⏱ AI Coding Time: 5 hrs 1 min (95.9%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 2,314 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 46,522 Input Tokens, 1,293 Output Tokens
+🔤 1,760,677 Input Tokens, 193,167 Output Tokens
 
-💵 $0.76 Estimated AI Cost This Week
+💵 $11.75 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 10 AI Sessions, 31 AI Prompts
 
-GPT                      61 lines            █████████████████████████   100.00 % 
+GPT                      2,314 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 725 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 412 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
